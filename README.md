@@ -1,3 +1,10 @@
+
+
+#  EduardoPizza
+#  Esse projeto trata-se de um site para pedidos de uma pizzaria, onde é possivel fazer o pedido, verificar o andamento, salvar valores, criar novas categorias no cardapio, realizar pagamento.
+-   O projeto foi feito como uma maneira de por em pratica meus conhecimentos e evoluir nas tecnologias utilizadas. NextJs, Postgres, insomnia.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
